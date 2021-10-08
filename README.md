@@ -1,8 +1,6 @@
 # Ordelerry - painless image viewing
 
 # WIP
-I want to learn Rust while doing this shit, so it can take a while to do this. A long while. Like really long while ;3  
-Rust is crazy man!
 
 ## Legal
 Project is not associated with any company and is made ****_for educational purposes only!_****
